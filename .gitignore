@@ -38,3 +38,6 @@ out/
 
 ### pem KEY ###
 cicd-test.pem
+
+### application.yml ###
+application.yml
