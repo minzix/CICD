@@ -1,4 +1,4 @@
-# 컨테이너 기반 프로젝트용 CICD pipeline
+# 컨테이너 기반 프로젝트용 CICD pipeline 최종
 name: Deploy to EC2
 
 on:
