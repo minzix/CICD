@@ -1,4 +1,4 @@
-# 일반 프로젝트 용 CICD pipeline 완성
+# 확장성 고려 프로젝트용 CICD pipeline
 name: Deploy to EC2
 
 on:
